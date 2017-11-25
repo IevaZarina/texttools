@@ -8,4 +8,4 @@ def transliterate(line):
 
 
 if __name__ == '__main__':
-    print transliterate(u"āžīūēĒ")
+    print transliterate(u"Šaursliežu dzelzceļš, Chemin de fer à voie étroite, Узкоколейная железная дорога")

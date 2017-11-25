@@ -31,7 +31,7 @@ symbol_dict = {u'ä': u'ae', u'æ': u'ae', u'ǽ': u'ae', u'ö': u'oe', u'œ': u'
                u'ƒ': u'f', u'Þ': u'TH', u'þ': u'th', u'Є': u'Ye', u'є': u'ye', u'А': u'a', u'Б': u'b', u'В': u'v',
                u'Г': u'g', u'Д': u'd', u'Е': u'e', u'Ё': u'jo', u'Ж': u'zh', u'З': u'z', u'И': u'i', u'Й': u'j',
                u'К': u'k', u'Л': u'l', u'М': u'm', u'Н': u'n', u'О': u'o', u'П': u'p', u'Р': u'r', u'С': u's',
-               u'Т': u't', u'У': u'u', u'Ф': u'f', u'Х': u'h', u'Ц': u'c', u'Ч': u'ch', u'Ш': u'sh', u'Щ': u'sch',
+               u'Т': u't', u'У': u'U', u'Ф': u'f', u'Х': u'h', u'Ц': u'c', u'Ч': u'ch', u'Ш': u'sh', u'Щ': u'sch',
                u'Ъ': u'', u'Ы': u'y', u'Ь': u'', u'Э': u'e', u'Ю': u'ju', u'Я': u'ja', u'а': u'a', u'б': u'b',
                u'в': u'v', u'г': u'g', u'д': u'd', u'е': u'e', u'ё': u'jo', u'ж': u'zh', u'з': u'z', u'и': u'i',
                u'й': u'j', u'к': u'k', u'л': u'l', u'м': u'm', u'н': u'n', u'о': u'o', u'п': u'p', u'р': u'r',
