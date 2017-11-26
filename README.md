@@ -1,12 +1,17 @@
-## Purpose
+## Texttools
 
-This is Python 2 module (valid for Python 3 as well) for transliterating special symbols from most common European languages to Latin symbils. 
-Append to the dictionary more symbols as needed.
-
+Python 2.7 package for various text normalization functions. Currenclyt contains transliteration functionality for special symbols from most common European languages to Latin symbils. 
+You can extend the symbol dictionary with more symbols as needed.
 
 ## Usage 
 
-Clone the project, import the module ```transliterate``` into your Python 2 or Python 3 code. 
+Use pip to install this package:
+
+```
+pip install git+https://github.com/IevaZarina/texttools.git
+``` 
+
+Import the ```textools``` package into your project: 
 
 ```
 from texttools.normalize import transliterate
