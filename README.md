@@ -9,9 +9,11 @@ Append to the dictionary more symbols as needed.
 Clone the project, import the module ```transliterate``` into your Python 2 or Python 3 code. 
 
 ```
+from texttools.normalize import transliterate
+
+
 unicode_string = u'Šaursliežu dzelzceļš, Chemin de fer à voie étroite, Узкоколейная железная дорога'
 
 transliterate(unicode_string)
-
 # Saursliezu dzelzcels, Chemin de fer a voie etroite, Uzkokolejnaja zheleznaja doroga
 ```
