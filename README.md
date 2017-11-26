@@ -1,6 +1,6 @@
 ## Texttools
 
-Python 2.7 package for various text normalization functions. Currenclyt contains transliteration functionality for special symbols from most common European languages to Latin symbils. 
+Python 2.7 package for various text normalization functions. Currently contains transliteration functionality for special symbols from most common European languages to Latin symbils. 
 You can extend the symbol dictionary with more symbols as needed.
 
 ## Usage 
